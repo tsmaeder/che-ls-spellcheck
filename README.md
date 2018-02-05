@@ -1,0 +1,1 @@
+# che-ls-spellcheck
